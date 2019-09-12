@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{lang_title}</title>
+    <script src='dist/js/scream4.js' async></script>
+  </head>
+  </head>
+  <body >
+    <div class='container'>
+       <nav>
+         <div class="logo">
+           <img src="images/logoScream.jpg"/>
+         </div>
+         <div >
+           <div class="menu">
+             <div class="menu-boton">CAST INFO</div>
+             <div class="menu-boton">OFFICIAL VIDEO TRAILER</div>
+             <div class="menu-boton">HORROR FILM FESTIVAL</div>
+             <div class="menu-boton">CURRENT SHOWINGS</div>
+             <div class="menu-boton">NEWSLETTER</div>
+           </div>
+         </div>
+       </nav>
+       <main class='main' id='main'>
+         <h1>Scream 4 Film Synopsis</h1>
+         <h5>By Scream Team</h1>
+          <hr/>
+          <div  class='texto'>
+            <p>
+              SCREAM 4 revives all of our favorite 
+              slasher movie motifs and still manages to craft 
+              a few new surprises as veteran horror director Wes 
+              Craven launches another bloody roller coaster ride 
+              through the unlucky town of Woodsboro. The site of writer Kevin Williamson’s original SCREAM film, Woodsboro hosts a new group of familiar celebrity faces who openly discuss the clichés of popular horror movies while trying to outrun a killer. The success of the SCREAM franchise lies in the packaging of successful actors, wry dialog and innovative ways to die. This fourth installment of Craven’s three-picture deal proves there is still box office gold to be mined from the comedy / whodunit / horror genre.
+            </p>
+            <div id='ft1' class='inter-foto'>
+              <img src='images/emma_roberts.jpg'/>
+            </div>
+            <p class='ladillo'>
+            A Florida Connection
+          </p>
+              <p>
+                  SCREAM’s 1996 launch was inspired by a real American serial killer called “The Gainesville Ripper” who targeted five Florida college students during a gory 90′s crime spree.
+
+                  Screenwriter Kevin Williamson is a fan of cult horror movies like Halloween (1978) and Friday the 13th (1980) which centered upon a group of hapless teens trying to escape a masked psychopath. Penned in the mid-1990s, the original script succeeded because it satirized the world of horror movies and brought the audience in on the joke.
+              </p>
+
+          </div>
+          <div id='ft2' class='inter-foto'>
+              <img src='images/emma_roberts_2.jpg'/>
+            </div>
+          <div class='footer' >
+              © 2019 Scream 4
+          </div>
+       </main>
+       
+      
+    </div>
+  </body>
+</html>
