@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{lang_title}</title>
+    <script src='../dist/js/micro_uno.js'></script>
+  </head>
+  </head>
+  <body>
+    <div class='container'>
+        <h1>micro uno</h1>
+      
+    </div>
+  </body>
+</html>

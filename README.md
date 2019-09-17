@@ -23,3 +23,7 @@ justify-content: space-around;
 
  ## Intersection Observer 
  https://alligator.io/js/intersection-observer/
+
+ # Grid & Flex
+ https://www.paradigmadigital.com/wp-content/uploads/2018/12/flexboxCheatSheet-Online.pdf
+ http://grid.malven.co/

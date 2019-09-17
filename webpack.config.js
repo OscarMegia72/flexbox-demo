@@ -8,6 +8,9 @@ module.exports = {
   entry: {
     main: path.resolve(__dirname, 'main.js'),
     scream4: path.resolve(__dirname, 'scream4.js'),
+    micros: path.resolve(__dirname, 'micros.js'),
+    micro_uno: path.resolve(__dirname, 'micro_uno.js'),
+    micro_dos: path.resolve(__dirname, 'micro_dos.js'),
   },
   output: {
       path: path.resolve(__dirname, 'public/dist'),

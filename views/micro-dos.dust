@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{lang_title}</title>
+    <script src='../dist/js/micro_dos.js'></script>
+  </head>
+  </head>
+  <body>
+    <div class='container'>
+       <h1>micro-dos</h1>
+    </div>
+  </body>
+</html>

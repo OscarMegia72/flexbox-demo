@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{lang_title}</title>
+    <script src='../dist/js/micros.js'></script>
+  </head>
+  </head>
+  <body>
+    <div class="container">
+      <div class='layout-micro-uno'>
+          <iframe id='iframe_uno' src="./micro-uno" ></iframe>
+      </div>
+
+      <div class='layout-micro-dos'>
+        <iframe id='iframe_dos' src="./micro-dos" ></iframe>
+      </div>
+
+    </div>
+  </body>
+</html>

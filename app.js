@@ -12,6 +12,7 @@ const moment = require('moment')
 const adaro = require('adaro');
 // Routes
 var index= require('./routes/index');
+var micros = require('./routes/micros')
 console.info("==================================")
 console.info(`Server Start ${moment().format('HH:mm:ss')}`)
 console.info("==================================")
@@ -26,6 +27,7 @@ app.engine('dust', adaro.dust());
 app.set('view engine', 'dust');
 // routing
 app.use('/', index);
+app.use('/micros',micros)
 app.use(cookieParser());
 // rutas
 // let autoRoutes = require('./boot/customRoutes')
